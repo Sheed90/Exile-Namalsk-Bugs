@@ -1,5 +1,5 @@
 # Exile-Namalsk-Bugs
-Exile Namalsk Bugs can be reported here
+Exile Namalsk Bugs can be reported here.
 
 Click on Issues or on that link: https://github.com/Sheed90/Exile-Namalsk-Bugs/issues
 
